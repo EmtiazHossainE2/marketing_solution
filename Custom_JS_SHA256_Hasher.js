@@ -3,6 +3,8 @@
 // Variable Type: Custom JavaScript
 // Name it: Custom JS - SHA256 Hasher.
 
+<script>
+
 function() {
     return function sha256(ascii) {
         function rightRotate(value, amount) {
@@ -100,4 +102,4 @@ function() {
     };
 }
 
-
+</script>;
