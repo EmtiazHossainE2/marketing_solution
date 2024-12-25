@@ -1,0 +1,30 @@
+const data : [
+  {
+  event: "view_item",
+  gtm: {uniqueEventId: 2, start: 1733338009698},
+  customer: {},
+  ecommerce: {
+    currency: "BDT",
+    
+    value:1882.51504274
+  }
+}
+]
+
+
+ecommerce.currency = BDT
+ecommerce.value = 1882.51504274 
+
+or 
+ecommerce.currency = AAVE
+ecommerce.value = 0.065109474227 
+
+in my data layer I got like this , but I want like 
+ecommerce.currency = EUR
+ecommerce.value = 14.99 
+
+https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/eur.json
+https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies.json
+
+now I want to use Custom Html to convert this , follow the api or any kind of api if you can refer 
+

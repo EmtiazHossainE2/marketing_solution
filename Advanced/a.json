@@ -1,0 +1,27 @@
+{
+  "event": "view_item",
+  "gtm": { "uniqueEventId": 2, "start": 1733338009698 },
+  "customer": {},
+  "ecommerce": {
+    "currency": "EUR",
+    "items": [
+      {
+        "index": 0,
+        "item_id": "shopify_NL_5552130523295_48906475110728",
+        "product_id": "5552130523295",
+        "variant_id": "48906475110728",
+        "item_name": "Extra Joss Active",
+        "quantity": 1,
+        "price": 14.99,
+        "discount": 0,
+        "item_category": "Sports & Energy Drinks",
+        "item_brand": "Extra Joss Europe",
+        "item_variant": "30 sachets",
+        "sku": "5-30",
+        "item_list_name": "Extra Joss Collection Homepage",
+        "item_list_id": "221126459551"
+      }
+    ],
+    "value": 14.99
+  }
+}

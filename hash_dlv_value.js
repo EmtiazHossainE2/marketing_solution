@@ -6,5 +6,6 @@ function() {
     var hasher = {{Custom JS - SHA256 Hasher}};
     return hasher(dlv_value.trim().toLowerCase());
 }
+hasher(100)
 
 // Repeat this for all required fields (First Name, Last Name, Phone, City, Country, Post).
